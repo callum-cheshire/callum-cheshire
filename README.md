@@ -2,7 +2,7 @@ Hi 👋 My name is Callum Cheshire
 
 Junior Full-Stack Developer
 
-- 🔭 I’m currently working at School of Code!
+- 🔭 I’ve recently completed a Full Stack Development Bootcamp at School of Code!
 - 🌱 I’m currently learning Javascript, node.js and React.
 - 📫 How to reach me: callum-cheshire@hotmail.co.uk
 - 🌍  I'm based in Atherstone, Warwickshire
